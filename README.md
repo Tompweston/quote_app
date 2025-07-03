@@ -1,3 +1,3 @@
-# quote_app
+# Golf_app
 
 #this is the readme file for the quote app
